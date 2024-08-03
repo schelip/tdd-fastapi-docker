@@ -12,6 +12,8 @@ asyncpg = "^0.24.0"
 tortoise-orm = "^0.17.8"
 pydantic-settings= "^2.4.0"
 aerich = "^0.5.8"
+pytest = "^8.3.2"
+requests = "^2.32.3"
 
 [build-system]
 requires = ["poetry-core"]
